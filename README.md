@@ -10,7 +10,7 @@ I graduated with a degree in Cell Biology and Genetics. I've been working as an 
 - 👋 Hi, I’m @twinredlotus
 - 👀 I’m interested in all things tech
 - 🌱 I’m currently learning Python scripting, Powershell scripting, and Docker
-- 📫 How to reach me twinredlotus@gmail.com
+- 📫 How to reach me ryan-hart@live.com
 
 ### 🔨 Languages and Tools:
 
